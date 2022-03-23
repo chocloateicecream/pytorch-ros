@@ -1,0 +1,8 @@
+prefix=/home/lee/tutorials_common/conda_ws/devel
+
+Name: pytorch-ros
+Description: Description of pytorch-ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

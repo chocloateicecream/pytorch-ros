@@ -1,0 +1,2 @@
+pytorch-ros
+-DCATKIN_DEVEL_PREFIX=/home/lee/tutorials_common/conda_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lee/tutorials_common/conda_ws/install -G Unix Makefiles
